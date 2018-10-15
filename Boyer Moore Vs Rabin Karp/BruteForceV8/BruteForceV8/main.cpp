@@ -1,6 +1,5 @@
 /*
 	Program: password cracking program with passwords generated.
-	Programer : Michael J Kleinman
 	Program name : BruteForce
 
 	Farm template from : Task - based parallelism example, Adam Sampson <a.sampson@abertay.ac.uk>
