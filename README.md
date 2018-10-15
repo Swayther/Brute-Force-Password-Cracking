@@ -12,7 +12,7 @@ Lower case alphabet
 The hashing algorithm that was used was SHA256. This was selected over other algorithms to simulate a realistic test environment. Considering that SHA256 is one of the most popular hashing algorithms being used now that has NOT been cracked (unlike MD5), it seemed like the most logical choice. Of course, it also adds an element of realism as few companies store user's passwords in a plain text format 
 Comparison of Boyer Moore and Rabin Karp password cracking algorithms with sha256 & MD5 hasing
 
-user menu
+User menu
 ----------
 Rabin Karp Vs Boyer Moore
 
