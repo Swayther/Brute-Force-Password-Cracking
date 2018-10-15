@@ -1,0 +1,11 @@
+BruteForceV78 - Password = 'AAAGA'
+Hashing: sha256
+Total Number of Tests : ,4
+Total Thread count : ,3
+
+Test Number,Timings 
+
+0,1,
+1,1,
+2,1,
+3,1,
