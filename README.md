@@ -14,7 +14,7 @@ Comparison of Boyer Moore and Rabin Karp password cracking algorithms with sha25
 
 User menu
 ----------
-Rabin Karp Vs Boyer Moore
+Brute force password cracking algorithm 
 
 1. Enter amount of threads for the farm to run on
 	(MUST be greater than 2)
