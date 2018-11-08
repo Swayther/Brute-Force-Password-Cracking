@@ -1,4 +1,4 @@
-# Boyer-Moore-Vs-Rabin-Karp
+# Brutefoce Password Cracking
 
 The aim of this project was to create an efficient CPU threaded password cracker in C++.
 
